@@ -15,9 +15,8 @@ This is not official [MikroTik](https://mikrotik.com) build and is not related t
   <img src="screenshot.png" width="650">
 </p>
 
-## Note
-
-Maintainer wanted. If you want to improve and update Winbox-mac to the latest version please contact me.
+## Winbox 4 and how it relates to this project
+Mikrotik has released a preview of Winbox that is cross platform native for Windows, Mac, and Linux! We are tracking its development, and the implications of future support of this project in this issue: https://github.com/nrlquaker/winbox-mac/issues/155. Please see this issue for discussion regarding missing features between Winbox 3 and 4. 
 
 ## Installation
 
@@ -57,8 +56,8 @@ If you like this project and you find it useful help me to improve it. First of 
 
 ## Version
 
-Current version is based on [Winbox 3.40](https://download.mikrotik.com/winbox/3.40/winbox64.exe).
-Wine version is `8.10 devel`.
+Current version is based on [Winbox 3.41](https://mt.lv/winbox64).
+Wine version is `9.0 stable`.
 
 Please check [versioning](VERSIONING.md) for versioning scheme explanation.
 
